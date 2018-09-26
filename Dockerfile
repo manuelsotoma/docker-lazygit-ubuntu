@@ -1,6 +1,6 @@
 FROM    ubuntu:16.04
 
-RUN     cat cat /etc/apt/sources.list
+# RUN     cat cat /etc/apt/sources.list
 
 RUN     apt-get update
 
